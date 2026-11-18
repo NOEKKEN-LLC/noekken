@@ -21,6 +21,8 @@ Your traffic is encrypted all the way from your device to our servers, so public
 <a href="#linux"><img alt="Download for Linux" src="https://img.shields.io/badge/Linux-Download-E95420?style=for-the-badge&logo=linux&logoColor=white" height="38"></a>
 &nbsp;
 <a href="https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/Noekken-1.5.3-android.apk"><img alt="Download for Android" src="https://img.shields.io/badge/Android-Download-34A853?style=for-the-badge&logo=android&logoColor=white" height="38"></a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.noekken.app"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Google%20Play-Get%20it-111111?style=for-the-badge&logo=googleplay&logoColor=white" height="38"></a>
 
 <sub>Version 1.5.3 · <a href="https://github.com/NOEKKEN-LLC/noekken/releases">all versions</a> · <a href="https://noekken.com/download">noekken.com/download</a></sub>
 
@@ -65,7 +67,7 @@ Your traffic is encrypted all the way from your device to our servers, so public
 | **Windows** | [Installer](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/noekken-setup-1.5.3.exe) · [Archive without an installer](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/Noekken-1.5.3-windows-x64.zip) | Windows 10 and 11, 64-bit |
 | **macOS** | [Disk image](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/Noekken-1.5.3-macos.dmg) | macOS 11 or newer, Apple Silicon and Intel |
 | **Linux** | [.deb x86_64](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/noekken_1.5.3_amd64.deb) · [.deb arm64](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/noekken_1.5.3_arm64.deb) · [.rpm x86_64](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/noekken-1.5.3-1.x86_64.rpm) · [.rpm arm64](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/noekken-1.5.3-1.aarch64.rpm) | Ubuntu 22.04+, Debian 12+, Fedora, RHEL 9 |
-| **Android** | [APK](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/Noekken-1.5.3-android.apk) | Android 8 or newer, 64-bit |
+| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.noekken.app) · [APK](https://github.com/NOEKKEN-LLC/noekken/releases/download/v1.5.3/Noekken-1.5.3-android.apk) | Android 8 or newer, 64-bit |
 
 ### Windows
 
@@ -88,7 +90,7 @@ On arm64, take the arm64 file. Noekken then shows up among your apps. On GNOME t
 
 ### Android
 
-Open the downloaded APK. The phone asks to allow installing apps from your browser: allow it, then install.
+The easiest way is [Google Play](https://play.google.com/store/apps/details?id=com.noekken.app): it installs and updates the app by itself. Or take the APK: open the downloaded file. The phone asks to allow installing apps from your browser: allow it, then install. Google Play and the APK are signed differently, so one does not update the other: to switch, remove the app first.
 
 ## Check the file
 
